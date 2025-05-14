@@ -1,3 +1,4 @@
 windows/ns-3-dev/*/x64
 windows/ns-3-dev/x64
 windows/ns-3-dev/.vs
+!windows/ns-3-dev/64/Release/mix
